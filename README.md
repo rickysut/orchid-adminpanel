@@ -1,4 +1,4 @@
-This repository containes a fresh installed <b>Laravel 8.54</b> project containing :
+This repository containes a fresh installed <b>Laravel 8.64</b> project containing :
 <ul>
     <li>laravel/ui</li>
     <li>Authentification scaffolding</li>
