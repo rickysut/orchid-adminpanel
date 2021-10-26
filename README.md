@@ -10,3 +10,6 @@ This is a very good starting point if you want to develop applications using <b>
 <hr/>
 
 The documentation can be found on <a target="_blank" href="https://www.kreaweb.be/laravel-8-bootstrap-5/">kreaweb.be</a>.
+
+<img src="https://www.kreaweb.be/wp-content/uploads/2021/10/laravel-bootstrap-004.jpg" target="_blank" />
+<img src="https://www.kreaweb.be/wp-content/uploads/2021/10/laravel-bootstrap-004.png" target="_blank" />
